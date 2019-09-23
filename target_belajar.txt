@@ -3,3 +3,5 @@ Selasa  : SIM
 
 Kamis   : GNS3
 Jum'at  : TrigerDB
+sabtu : Muhlishoh , panitia studyweek
+minggu : Muhlishoh , istirahat
