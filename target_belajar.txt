@@ -1,2 +1,4 @@
-senin : Bootstrap, GIT
-Selasa : SIM
+senin   : Bootstrap, GIT
+Selasa  : SIM
+Rabu    : kosong
+Kamis   : GNS3
